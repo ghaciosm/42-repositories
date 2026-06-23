@@ -12,3 +12,4 @@ This repository contains my 42 school projects collected in one place.
 - [42_Printf](./42_projects/42_Printf)
 - [42_Push_Swap](./42_projects/42_Push_Swap)
 - [42_So_Long](./42_projects/42_So_Long)
+- [42_cub3d](./42_projects/42_cub3d)
